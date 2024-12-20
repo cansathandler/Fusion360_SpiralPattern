@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/60e9e265-842a-4541-8605-0080245328ee)The file should be moved as below:
+The file should be moved as below:
 C:\Users\Username\AppData\Local\Autodesk\webdeploy\production\..\Applications\Electron\LibEagle\examples\ulps\examples
 
 The location can be checked via ULP tool in Fusion360.
